@@ -1,4 +1,4 @@
-import * as $ from "jquery";
+import $ from "jquery";
 import "jquery-ui-dist/jquery-ui";
 import { Howl } from "howler";
 import * as THREE from "three";
